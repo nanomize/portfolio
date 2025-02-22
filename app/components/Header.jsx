@@ -13,10 +13,7 @@ const Header = () => {
     <h1 className='text-3xl sm:text-6xl lg:text-[66px] font-Ovo'>
         Frontend web developer based in Bangkok</h1>
         <p className='max-w-2x1 mx-auto font-Ovo'>
-            I am a Software Engineer with two years of experience in frontend development using Angular. 
-            Currently, I am enhancing my skills in React and Spring Boot. After spending a year in Australia, 
-            where I embraced new challenges and gained valuable life experiences, 
-            I am eager to apply my technical expertise and adventurous mindset in a full-stack developer role in Thailand.
+        Software Engineer with 2 years of experience, skilled in frontend and backend development. Passionate about full-stack development, continuous learning, and embracing new challenges.
         </p>
         <div className='flex flex-col sm:flex-row items-center gap-4 mt-4'>
             <a href='#contact'
