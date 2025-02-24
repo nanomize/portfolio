@@ -40,10 +40,7 @@ const About = ({isDarkMode}) => {
             whileInView={{opacity:1}}
             transition={{duration: 0.6, delay: 0.8}}
             className='flex-1'>
-                <p className='mb-10 max-w-2xl font-Ovo'>I am a Software Engineer with two years of experience in frontend development using Angular. 
-            Currently, I am enhancing my skills in React and Spring Boot. After spending a year in Australia, 
-            where I embraced new challenges and gained valuable life experiences, 
-            I am eager to apply my technical expertise and adventurous mindset in a full-stack developer role in Thailand.</p>
+                <p className='mb-10 max-w-2xl font-Ovo'>I'm a Software Engineer with 2 years of experience in frontend development using Angular, currently expanding my skills in React and Spring Boot. After spending a year in Australia, I'm eager to apply my technical expertise and adventurous mindset in a full-stack developer role. I’m actively seeking new opportunities and ready to contribute to a dynamic team.</p>
 
             <motion.ul 
             initial={{opacity:0,}}
